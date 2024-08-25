@@ -33,5 +33,6 @@ This dashboard provides a comprehensive analysis of sales performance on Amazon.
 
 
 # Here is the demo of how Dashboard works:
+https://github.com/user-attachments/assets/74e7f025-24b2-46bc-869e-699c18447bb6
 
 
